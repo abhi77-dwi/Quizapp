@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:quiz_app/firstScreen.dart';
 import 'package:quiz_app/play.dart';
-import 'Calculator.dart';
+import 'appconfig/Calculator.dart';
 import 'Question/EnglishQuestion.dart';
 import 'Question/Gkquestion.dart';
 import 'Question/Reasoning.dart';
